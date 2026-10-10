@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Asahikawa",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Bihoro",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Hiratori",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Horobetsu",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Kushiro",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Maoka",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Nairo",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Nayoro",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Niikappu",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Nukkibetsu",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Obihiro",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Ochiho",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Oshamambe",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Raichishka",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Samani",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Shiraura",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Soya",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.329834,
+          48.141866
+        ]
+      },
+      "properties": {
+        "Name": "Tarantomari",
+        "Glottocode": "sakh1245",
+        "Glottolog_Name": "Sakhalin Ainu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46167,
+          43.633654
+        ]
+      },
+      "properties": {
+        "Name": "Yakumo",
+        "Glottocode": "ainu1240",
+        "xd_ids": [
+          "xd635"
+        ],
+        "Glottolog_Name": "Hokkaido Ainu"
+      }
+    }
+  ]
+}
